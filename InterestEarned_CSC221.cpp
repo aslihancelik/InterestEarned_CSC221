@@ -1,5 +1,5 @@
-//Programmer: Aslihan Celik
-//
+// Programmer: Aslihan Celik
+// Date: 10/12/2024
 //
 // InterestEarned_CSC221.cpp : 
 // This program calculates the interest earned on a principal investment after one year.
